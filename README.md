@@ -1,4 +1,4 @@
-<h1 align="center">Hey there folks 👋, I'm Sanika Tiwarekar!👻</h1>
+<h1 align="center">Hey there folks 👋, I'm Sanika Tiwarekar.</h1>
 <h3 align="center">All things Dev here. WebDev, AppDev, Frontend, Backend, you name it!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiwarekarsanika&label=Profile%20views&color=0e75b6&style=flat" alt="tiwarekarsanika" /> </p>

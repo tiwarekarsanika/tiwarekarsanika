@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiwarekarsanika&label=Profile%20views&color=0e75b6&style=flat" alt="tiwarekarsanika" /> </p>
 
-- 🔭 I’m currently working on [Family Financial Planning](https://github.com/tiwarekarsanika/Family-Financial-PLanning)
+- 🔭 I’m currently working as a Research Intern at IIT Patna on projects like Brain Tumor Segmentation & ASD Classification.
 
-- 👯 I’m looking to collaborate on **Full Stack Web or App development projects.**
+- 👯 I’m looking to collaborate on **Full Stack Web/App development and ML projects.**
 
 - 📫 How to reach me **sanika.tiwarekar@spit.ac.in**
 
@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanikatiwarekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanikatiwarekar" height="30" width="40" /></a>
-<a href="https://instagram.com/shutupsanika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shutupsanika" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

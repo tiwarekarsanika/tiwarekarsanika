@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiwarekarsanika&label=Profile%20views&color=0e75b6&style=flat" alt="tiwarekarsanika" /> </p>
 
-- 🔭 I’m currently working as a Research Intern at IIT Patna on projects like Brain Tumor Segmentation & ASD Classification.
+- 🔭 I’m currently working on Freelance projects.
 
 - 👯 I’m looking to collaborate on **Full Stack Web/App development and ML projects.**
 
 - 📫 How to reach me **sanika.tiwarekar@spit.ac.in**
-
-- ⚡ Fun fact **Giraffes have black tongues.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
